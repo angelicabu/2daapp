@@ -9,15 +9,7 @@ st.set_page_config(page_title="Mi App en Python", page_icon="📊")
 # Barra lateral:
 st.sidebar.markdown('__Conceptos y Aplicaciones Estadísticas__')
 st.sidebar.image("Images//bioadviser.png", use_column_width=True)
-st.sidebar.markdown('Introducción')
-st.sidebar.markdown('Origen e historia de la estadística')
-st.sidebar.markdown('Conceptos Estadísticos:')
-st.sidebar.markdown(' * Población y Muestra')
-st.sidebar.markdown(' * Tipos de Variables')
-st.sidebar.markdown('Medidas de tendencia central')
-st.sidebar.markdown('Medidas de dispersión')
-st.sidebar.markdown('Medidas de posición')
-st.sidebar.markdown('Visualización de datos')
+st.sidebar.markdown('Mamá estoy triunfando')
 st.sidebar.markdown('Aplicación elaborada para los estudiantes de Fundamentos de Python de [David Zambrano](https://www.linkedin.com/in/david-enrique-zambrano-a753a764/)')
 
 # Estructura:
