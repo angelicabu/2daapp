@@ -9,7 +9,7 @@ st.set_page_config(page_title="Mi App en Python", page_icon="📊")
 # Barra lateral:
 st.sidebar.markdown('__Conceptos y Aplicaciones Estadísticas__')
 st.sidebar.image("Images//bioadviser.png", use_column_width=True)
-st.sidebar.markdown('Mamá estoy triunfando')
+st.sidebar.markdown('Angelica Burgos')
 st.sidebar.markdown('Aplicación elaborada para los estudiantes de Fundamentos de Python de [David Zambrano](https://www.linkedin.com/in/david-enrique-zambrano-a753a764/)')
 
 # Estructura:
